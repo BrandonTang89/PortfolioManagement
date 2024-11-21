@@ -1,0 +1,5 @@
+TR.TotalReturn1Wk 0
+TR.Volume 1
+TR.CompanyMarketCapitalization 1 
+TR.PriceClose 2
+TR.PriceOpen 2
